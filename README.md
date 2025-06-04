@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SM%20AMERICA&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=red&height=150&section=header&text=SM%20AMERICA&fontSize=70&animation=twinkling&fontColor=ffffff)
 
-<p align="center">Welcome to the official GitHub page of SM AMERICA</p>
+<p align="center">Welcome to the official GitHub page of <strong>SM AMERICA</strong></p>
 
 <h3 align="center">🛒 SM AMERICA E-COMMERCE PLATFORM 🛒</h3>
 
@@ -27,7 +27,7 @@ Explore how we combined technology and retail to provide a seamless online shopp
 ### 🌐 Visit Us
 
 <p align="center">
-  <a href="https://www.smamerica.com" target="_blank"><img src="https://img.shields.io/badge/Website-smamerica.com-blue?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.smamerica.com" target="_blank"><img src="https://img.shields.io/badge/Website-smamerica.com-red?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 ---
