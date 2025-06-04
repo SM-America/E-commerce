@@ -1,20 +1,13 @@
-<!-- Header Design with Custom Banner -->
-<p align="center">
-  <span style="background-color:#1B1F23; padding: 20px 40px; border-radius: 10px; display:inline-block;">
-    <span style="color:#C0392B; font-size:48px; font-weight:bold;">SM</span>
-    <span style="color:#FFFFFF; font-size:48px; font-weight:bold;"> AMERICA</span>
-  </span>
-</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SM%20AMERICA&fontSize=70&animation=twinkling)
+
+<p align="center">Welcome to the official GitHub page of SM AMERICA</p>
+
+<h3 align="center">🛒 SM AMERICA E-COMMERCE PLATFORM 🛒</h3>
 
 <p align="center">
-  <em>Welcome to the official GitHub page of <strong>SM AMERICA</strong></em>
+We are proud to present our new E-Commerce platform, built for performance, scalability, and customer satisfaction.  
+Explore how we combined technology and retail to provide a seamless online shopping experience.
 </p>
-
----
-
-## 🛒 SM AMERICA E-COMMERCE PLATFORM
-
-We proudly present our new E-Commerce platform, developed with a modern tech stack for scalability, security, and a seamless customer experience.
 
 ---
 
@@ -34,9 +27,7 @@ We proudly present our new E-Commerce platform, developed with a modern tech sta
 ### 🌐 Visit Us
 
 <p align="center">
-  <a href="https://www.smamerica.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-smamerica.com-C0392B?style=flat-square&logo=Google-Chrome&logoColor=white"/>
-  </a>
+  <a href="https://www.smamerica.com" target="_blank"><img src="https://img.shields.io/badge/Website-smamerica.com-blue?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -44,15 +35,11 @@ We proudly present our new E-Commerce platform, developed with a modern tech sta
 ### 📬 Contact
 
 <p align="center">
-  <a href="mailto:info@smamerica.com">
-    <img src="https://img.shields.io/badge/Email-info@smamerica.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:info@smamerica.com"><img src="https://img.shields.io/badge/Email-info@smamerica.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshindudwns&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=black&title=Visitors&edge_flat=false"/>
-  </a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshindudwns&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=black&title=Visitors&edge_flat=false"/></a>
 </p>
